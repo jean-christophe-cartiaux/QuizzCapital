@@ -1,0 +1,15 @@
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.csproj.AssemblyReference.cache
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.AssemblyInfoInputs.cache
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.AssemblyInfo.cs
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.csproj.CoreCompileInputs.cache
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\bin\Debug\net7.0\QuizCapitales.exe
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\bin\Debug\net7.0\QuizCapitales.deps.json
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\bin\Debug\net7.0\QuizCapitales.runtimeconfig.json
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\bin\Debug\net7.0\QuizCapitales.dll
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\bin\Debug\net7.0\QuizCapitales.pdb
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.dll
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\refint\QuizCapitales.dll
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.pdb
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\QuizCapitales.genruntimeconfig.cache
+C:\Users\jc.cartiaux\Desktop\Dyma_c#\Exercices\QuizCapitales\obj\Debug\net7.0\ref\QuizCapitales.dll
